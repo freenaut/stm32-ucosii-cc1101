@@ -151,7 +151,7 @@
 
   <Group>
     <GroupName>APP</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <File>
@@ -160,10 +160,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>56</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>77</TopLine>
-      <CurrentLine>91</CurrentLine>
+      <TopLine>75</TopLine>
+      <CurrentLine>85</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\APP\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -260,7 +260,7 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>583</TopLine>
+      <TopLine>578</TopLine>
       <CurrentLine>591</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\APP\cc1101.c</PathWithFileName>
@@ -5919,7 +5919,7 @@
 
   <Group>
     <GroupName>uCGUI/JPEG</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <File>
@@ -12988,7 +12988,7 @@
   </Group>
 
   <AlienFiles>
-    <PathWithFilename>X:\STM32-UCOSII-CC1101\APP\cc1101.h</PathWithFilename>
+    <PathWithFilename>W:\STM32\UCOS2_UCGUI3.98_BIG\APP\cc1101.h</PathWithFilename>
     <TopLine>27</TopLine>
     <CurrentLine>32</CurrentLine>
     <Constant>0</Constant>
@@ -13018,7 +13018,7 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>4</ActiveTab>
+      <ActiveTab>3</ActiveTab>
       <Documents>
         <Doc>
           <Name>.\ucos_ii\GUI_X\GUI_X_uCOS.c</Name>
@@ -13041,14 +13041,14 @@
         <Doc>
           <Name>.\APP\cc1101.c</Name>
           <ColumnNumber>0</ColumnNumber>
-          <TopLine>583</TopLine>
+          <TopLine>578</TopLine>
           <CurrentLine>591</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\APP\main.c</Name>
-          <ColumnNumber>56</ColumnNumber>
-          <TopLine>77</TopLine>
-          <CurrentLine>91</CurrentLine>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>75</TopLine>
+          <CurrentLine>85</CurrentLine>
         </Doc>
         <Doc>
           <Name>APP\cc1101.h</Name>
